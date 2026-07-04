@@ -108,20 +108,6 @@ Monsoon Intelligence panel tracking onset, rainfall anomalies, dry-spell distric
 
 
 
-👥 Team — Cosmic Compile
-
-RoleNameCollegeTeam LeaderPriyan SaxenaJaypee Institute of Information Technology, NoidaTeam MemberAkansha NagarJaypee Institute of Information Technology, NoidaTeam MemberMadhav KansalJaypee Institute of Information Technology, Noida
-
-
-🇮🇳 About Bharatiya Antariksh Hackathon 2026
-
-Welcome to the third edition of the Bharatiya Antariksh Hackathon — a national innovation initiative by the Indian Space Research Organisation (ISRO), powered by Hack2skill.
-
-Bringing together student innovators from across India, the hackathon invites undergraduates, postgraduates, research scholars, and aspiring problem-solvers to tackle real-world challenges inspired by India's growing ambitions in space technology and exploration.
-
-More than a competition, Bharatiya Antariksh Hackathon 2026 is an opportunity to innovate for the nation's future in space. Collaborate with brilliant minds, learn from ISRO scientists and domain experts, and build impactful solutions that can contribute to the next era of India's space-tech ecosystem.
-
-
 📄 License
 
 This project was created as a submission for the Bharatiya Antariksh Hackathon 2026 (ISRO × Hack2skill).
